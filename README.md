@@ -1,4 +1,6 @@
-<img src=”https://user-images.githubusercontent.com/64891982/147329628-13da3357-3d99-45f2-bc10-df9ebd412c30.gif" alt=”my banner”>
+<p align=”center”>
+<img src="https://user-images.githubusercontent.com/64891982/147330421-3c08337a-6db5-4220-b0ea-7f07263ef9dd.png" alt=”my banner”>
+</p>
 <h1 align="center">
     Hi there 👋, I am Gayani Nisansala
 </h1>
