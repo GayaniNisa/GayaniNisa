@@ -1,5 +1,5 @@
 <p align=”center”>
-<img src="https://user-images.githubusercontent.com/64891982/147330421-3c08337a-6db5-4220-b0ea-7f07263ef9dd.png" alt=”my banner”>
+<img src="https://user-images.githubusercontent.com/64891982/147332066-9dbee0e1-ce60-4720-8c45-98c4fe34c920.png" alt=”my banner”>
 </p>
 <h1 align="center">
     Hi there 👋, I am Gayani Nisansala
